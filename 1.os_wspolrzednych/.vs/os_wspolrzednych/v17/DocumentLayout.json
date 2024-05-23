@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bz123\\OneDrive\\Pulpit\\CPP\\os_wspolrzednych\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8363BFA6-743E-42EB-AC50-B9AA07E9EF52}|os_wspolrzednych\\os_wspolrzednych.vcxproj|C:\\Users\\bz123\\OneDrive\\Pulpit\\CPP\\os_wspolrzednych\\os_wspolrzednych\\os_wspolrzednych.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8363BFA6-743E-42EB-AC50-B9AA07E9EF52}|os_wspolrzednych\\os_wspolrzednych.vcxproj|solutionrelative:os_wspolrzednych\\os_wspolrzednych.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8363BFA6-743E-42EB-AC50-B9AA07E9EF52}|os_wspolrzednych\\os_wspolrzednych.vcxproj|C:\\Users\\bz123\\OneDrive\\Pulpit\\CPP\\os_wspolrzednych\\os_wspolrzednych\\friend.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8363BFA6-743E-42EB-AC50-B9AA07E9EF52}|os_wspolrzednych\\os_wspolrzednych.vcxproj|solutionrelative:os_wspolrzednych\\friend.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8363BFA6-743E-42EB-AC50-B9AA07E9EF52}|os_wspolrzednych\\os_wspolrzednych.vcxproj|C:\\Users\\bz123\\OneDrive\\Pulpit\\CPP\\os_wspolrzednych\\os_wspolrzednych\\friend.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8363BFA6-743E-42EB-AC50-B9AA07E9EF52}|os_wspolrzednych\\os_wspolrzednych.vcxproj|solutionrelative:os_wspolrzednych\\friend.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "os_wspolrzednych.cpp",
+              "DocumentMoniker": "C:\\Users\\bz123\\OneDrive\\Pulpit\\CPP\\os_wspolrzednych\\os_wspolrzednych\\os_wspolrzednych.cpp",
+              "RelativeDocumentMoniker": "os_wspolrzednych\\os_wspolrzednych.cpp",
+              "ToolTip": "C:\\Users\\bz123\\OneDrive\\Pulpit\\CPP\\os_wspolrzednych\\os_wspolrzednych\\os_wspolrzednych.cpp",
+              "RelativeToolTip": "os_wspolrzednych\\os_wspolrzednych.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T16:01:16.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "friend.h",
+              "DocumentMoniker": "C:\\Users\\bz123\\OneDrive\\Pulpit\\CPP\\os_wspolrzednych\\os_wspolrzednych\\friend.h",
+              "RelativeDocumentMoniker": "os_wspolrzednych\\friend.h",
+              "ToolTip": "C:\\Users\\bz123\\OneDrive\\Pulpit\\CPP\\os_wspolrzednych\\os_wspolrzednych\\friend.h",
+              "RelativeToolTip": "os_wspolrzednych\\friend.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-21T16:05:02.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "friend.cpp",
+              "DocumentMoniker": "C:\\Users\\bz123\\OneDrive\\Pulpit\\CPP\\os_wspolrzednych\\os_wspolrzednych\\friend.cpp",
+              "RelativeDocumentMoniker": "os_wspolrzednych\\friend.cpp",
+              "ToolTip": "C:\\Users\\bz123\\OneDrive\\Pulpit\\CPP\\os_wspolrzednych\\os_wspolrzednych\\friend.cpp",
+              "RelativeToolTip": "os_wspolrzednych\\friend.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T16:04:49.004Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
