@@ -32,10 +32,6 @@ public:
 
 
 
-
-
-
-
             if (month == 2 && day > 0 && day <= 29)
             {
                 cout << "Zgodny miesiac i dzien1" << endl;
